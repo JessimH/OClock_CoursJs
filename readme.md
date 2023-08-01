@@ -3,10 +3,10 @@
 
 ## Setup du projet
 
-npm install
-cd api
-npm install
-node --watch index.js
+-npm install
+-cd api
+-npm install
+-node --watch index.js
 
 ## Pré-requis
 
