@@ -1,6 +1,13 @@
 
 # Cours Javascript : connexion et utilisation d'une BDD
 
+## Setup du projet
+
+npm install
+cd api
+npm install
+node --watch index.js
+
 ## Pré-requis
 
 - avoir installer PostgreSQL
