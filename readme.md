@@ -41,6 +41,10 @@ FRONTEND
 - Utiliser les Promises Js avec Axios pour fetch la data renvoyé par notre Back
 - Modifier notre DOM en fonction de la data reçu
 
+## Support Pédagogique
+
+repo gitHub: <https://github.com/JessimH/OClock_CoursJs>
+
 ## Temps
 
 2h
